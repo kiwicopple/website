@@ -29,5 +29,5 @@ This command generates static content into the `build` directory and can be serv
 ```
 npm run build
 git add . && git commit -m "Bump"
-git push
+git subrepo push build
 ```
