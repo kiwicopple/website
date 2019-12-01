@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:kiwicopple/site.git
 	branch = master
-	commit = 00ffa1fe41ba831af8aac3ff523c65aa816e9483
-	parent = e86d7c027513e77b3768db4a9ebc8d82984f27d2
+	commit = 0bf3a72605373fce0406313090186b4b6fb81c11
+	parent = 4e7478145c0205fb06f1bc920e83f483235b9948
 	method = merge
 	cmdver = 0.4.0
