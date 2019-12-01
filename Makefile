@@ -1,7 +1,7 @@
 
 
 help:
-	echo "TBD"
+	@echo "make deploy 		# builds static site and deploys to CDN"
 
 
 deploy:
