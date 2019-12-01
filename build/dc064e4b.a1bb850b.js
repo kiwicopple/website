@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[33],{163:function(s){s.exports=JSON.parse('{"id":"ethics","title":"Ethics","description":"> Status: DRAFT","source":"@site/docs/ethics.md","permalink":"/docs/ethics","sidebar":"docs","previous":{"title":"Powered by MDX","permalink":"/docs/mdx"}}')}}]);
